@@ -386,15 +386,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.hgignore">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="hg4idea" />
-              <option name="myPluginName" value="Mercurial" />
-              <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.hlp">
           <value>
             <plugin>
