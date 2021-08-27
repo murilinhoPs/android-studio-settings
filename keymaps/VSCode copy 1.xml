@@ -3,6 +3,10 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="s" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
