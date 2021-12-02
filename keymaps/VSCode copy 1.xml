@@ -1,4 +1,7 @@
 <keymap version="1" name="VSCode copy 1" parent="VSCode">
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="Find" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl f" />
@@ -6,6 +9,9 @@
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="s" />
     <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">

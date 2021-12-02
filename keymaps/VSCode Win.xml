@@ -1,0 +1,6 @@
+<keymap version="1" name="VSCode Win" parent="VSCode">
+  <action id="Find" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+</keymap>
